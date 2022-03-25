@@ -1,0 +1,9 @@
+#
+# product.prop for msm8937 (hannah)
+#
+
+# Default to BFQ I/O scheduler
+persist.sys.io.scheduler=bfq
+
+#Bypass BPF
+bpf.progs_loaded=1

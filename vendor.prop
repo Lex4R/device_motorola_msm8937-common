@@ -1,0 +1,4 @@
+
+# Bpf bypass
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.kernel.ebpf.supported=false

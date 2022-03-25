@@ -1,0 +1,6 @@
+allow ueventd unlabeled:dir { search };
+allow ueventd unlabeled:file { read };
+allow ueventd unlabeled:file { open };
+allow ueventd unlabeled:file { getattr };
+allow ueventd sysfs_devices_fingerprint:file rw_file_perms;
+allow ueventd self:capability sys_nice;

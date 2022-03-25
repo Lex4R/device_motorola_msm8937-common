@@ -1,0 +1,2 @@
+get_prop(wcnss_service, system_prop)
+allow wcnss_service sysfs:file rw_file_perms;

@@ -1,0 +1,7 @@
+#
+# system_ext.prop for msm8937 (hannah)
+#
+
+# DPM
+persist.vendor.dpm.feature=1
+persist.vendor.dpm.loglevel=0

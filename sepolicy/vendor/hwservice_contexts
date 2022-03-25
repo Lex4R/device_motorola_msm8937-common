@@ -1,0 +1,4 @@
+vendor.qti.hardware.mwqemadapter::IMwqemAdapter              u:object_r:hal_mwqemadapter_hwservice:s0
+
+# Dolby
+vendor.dolby.hardware.dms::IDms                                            u:object_r:hal_dms_hwservice:s0
